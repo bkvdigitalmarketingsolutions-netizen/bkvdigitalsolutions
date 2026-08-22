@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bkv-digital-marketing-solutions.github.io/sitemap.xml
